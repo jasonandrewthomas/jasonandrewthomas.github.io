@@ -6,8 +6,7 @@ comments: true
 categories: 
 ---
 
-Finally after much ado, I am moving Gotchacode to Octopress. There are various reasons for doing it.
-I am listing some of them here:
+fdsafdsafdsafdsafdsafdsa
 
 - There is absolutely no good theme if you are running a technical blog.
 - Syntax highlighting is pathetic.
