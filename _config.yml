@@ -1,9 +1,8 @@
 name: White Paper
 description: >
-    A simple jekyll theme aimed at programmers who like clean interface to write posts
-    and show off some code.
+    Jason Thomas' academic blog. 
 about: >
-    At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.
+    Hello. My name is Jason Andrew Thomas. I am a PhD student at the University of Washington studying Biomedical and Health Informatics. My focus is in Clinical Informatics surrounding Quality Improvement, Clinical Decision Support, and Data Quality.
 
 master_repo: false
 url: "http://vinitkumar.me/white-paper"
@@ -19,14 +18,13 @@ disqus_shortname:
 
 rtl: false
 owner:
-  name:           whitepaper
-  avatar:         "https://avatars1.githubusercontent.com/u/537678?s=240&v=4"
-  email:          "vinit1414.08@bitmesra.ac.in"
+  name:           Jason A. Thomas
+  avatar:         "https://avatars0.githubusercontent.com/u/37385243?s=400&u=6e20465e0093268c616c36a26114063dccf92856&v=4"
+  email:          "thomasjt@uw.edu"
   # Social networking links used in footer. Update and remove as you like.
-  twitter: vinitkme
-  github: https://github.com/vinitkumar
-  stackexchange: https://stackoverflow.com/users/859112/vinit-kumar?tab=profile
-  linkedin: https://www.linkedin.com/in/vinitatlinkedin
+  twitter: realjasonthomas
+  github: https://github.com/jasonandrewthomas
+  linkedin: https://www.linkedin.com/in/jasonandrewthomas/
   # For Google Authorship https://plus.google.com/authorship
   google_plus:
 
