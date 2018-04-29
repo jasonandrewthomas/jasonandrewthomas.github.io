@@ -5,7 +5,7 @@ about: >
     <p>Hello. My name is Jason Andrew Thomas. I am a PhD student at the University of Washington studying Biomedical and Health Informatics. My focus is in Clinical Informatics surrounding Quality Improvement, Clinical Decision Support, and Data Quality.</p>
     
     <p>Peer-Reviewed Publications: </p>
-    <font size="2"> <span>&#42;</span>These authors contributed equally
+    <span>&#42;</span>These authors contributed equally
 
     1. Biering-Sørensen T, Kabir M, Waks JW, <b>Thomas J</b>, Post WS, Soliman EZ, Buxton AE, Shah AM, Solomon SD, Tereshchenko LG. <a href="https://www.ncbi.nlm.nih.gov/pubmed/29496680">Global ECG Measures and Cardiac Structure and Function: The ARIC Study (Atherosclerosis Risk in Communities)</a>. Circ Arrhythm Electrophysiol. 2018 Mar;11(3):e005961. doi: 10.1161/CIRCEP.117.005961. PubMed PMID: 29496680; PubMed Central PMCID: PMC5836803.
     
@@ -16,7 +16,7 @@ about: >
     4. Kabir MM, Sedaghat G, <b>Thomas J</b>, Tereshchenko LG. Reproducibility of Heart Rate Variability Characteristics Measured on Random 10-second ECG using Joint Symbolic Dynamics. Comput Cardiol (2010). 2016 Sep;2016:289-292. doi: 10.23919/CIC.2016.7868736. Epub 2017 Mar 2. PubMed PMID: 28944246; PubMed Central PMCID: PMC5606201.
     
     5. Junell A<span>&#42;</span>, <b>Thomas J<span>&#42;</span></b>, Hawkins L, Sklenar J, Feldman T, Henrikson CA, Tereshchenko LG. Screening entire healthcare system ECG database: Association of deep terminal negativity of P wave in lead V1 and ECG referral with mortality. Int J Cardiol. 2017 Feb 1;228:219-224. doi: 10.1016/j.ijcard.2016.11.128. Epub 2016 Nov 10. PubMed PMID: 27865189; PubMed Central PMCID: PMC5203953.
-    </font>
+    
 master_repo: false
 url: "http://jasonandrewthomas.com"
 markdown: kramdown
